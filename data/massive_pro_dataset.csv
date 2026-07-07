@@ -6825,3 +6825,103 @@ match_id,league_id,radiant_win,duration,radiant_team,dire_team,radiant_player_1,
 8740229893,19201,False,2337,Titan Strikers,Wild Dragon,Ts.saydan,14,Ts.TioS,109,Ts.Chizan,81,Ts.Elec,35,Ts.Ganzy,22,WD.Kalanno,145,WD.Nyac,80,WD.Javi,129,WD.Darima,71,WD.Hellen,84
 8740206708,19201,False,2019,FALL VICTIMS,VERTEX PACK,FV.NoRemorse,22,FV.BenzDance~,49,FV.1Yato1,21,FV.Trilemma,46,FV.Norbert,31,vP.Shelby,19,vP.RatnBone,55,vP.Helannt,42,vP.Pronto,14,vP.zikboss,26
 8740188210,19201,True,1714,VERTEX PACK,FALL VICTIMS,vP.Shelby,11,vP.Pronto,31,vP.Helannt,70,vP.RatnBone,2,vP.zikboss,86,FV.NoRemorse,25,FV.Trilemma,48,FV.Norbert,5,FV.1Yato1,105,FV.BenzDance~,104
+8740164753,19201,False,2061,Vitality Warriors,Night Vision,VW.Laughalot,29,VW.Snickerdoodle,46,VW.Jesterface,56,VW.Gigglebot,88,VW.Chucklesaur,87,NV.Volcanus,102,NV.WaifuWarrior,8,NV.mintyfresh,35,NV.popcorny,75,NV.Jupitera,84
+8740137466,19201,True,2192,Night Vision,Vitality Warriors,NV.Volcanus,49,NV.mintyfresh,25,NV.WaifuWarrior,48,NV.popcorny,128,NV.Jupitera,31,VW.Gigglebot,101,VW.Snickerdoodle,10,VW.Laughalot,38,VW.Jesterface,11,VW.Chucklesaur,50
+8740119742,19467,False,1917,Raidd Boss,LAVA SPORTS,Soul,126,Gk- el retorno,129,Radita🌸,128,Radamez,68,PECHAN,48,Guré Léiman,135,fantasma,83,viper,17,Ñengo,46,Tyr,101
+8740113631,19422,False,2427,paiN Gaming,OG,Wits,145,Fr△nk,38,DarkMago♥,16,Scofield,27,Elmisho,64,skem,100,Nikko,108,TIMS,86,Yopaj-,13,Natsumi,21
+8740109615,19201,True,1875,Vitality Warriors,Night Vision,VW.Laughalot,71,VW.Snickerdoodle,54,VW.Jesterface,11,VW.Chucklesaur,5,VW.Gigglebot,22,NV.popcorny,128,NV.Volcanus,129,NV.mintyfresh,43,NV.WaifuWarrior,12,NV.Jupitera,84
+8740099172,19467,False,1533,Golden Wolves,GIOR DOTA,St4l1n,15,LICEN- D I N O  T H U N D E R,31,Leches,8,Vassy,123,Zm-x ♣,39,SHEOL,90,Kari,28,bot.-,99,Asao,114,Hanzama,40
+8740097396,19422,True,2896,Virtus.pro,Nigma Galaxy,Abed,126,Timado,21,Saberlight,137,Hellscream,19,Fly,37,rincyq,41,Davai,98,No!ob™,13,OmaR,27,GH,64
+8740094561,19422,True,2289,Xtreme Gaming,Team Falcons,Ame,11,NothingToSay,19,Xxs,28,fy,123,xNova,64,Sneyking,27,skiter,72,Malr1ne,137,AMMAR_THE_F,99,Cr1t-,131
+8740093861,19422,False,2186,Aurora Gaming,Team Spirit,Nightfall,136,Mikoto,13,Ws`,33,Mira,100,kaori,37,Yatoro,46,panto,123,Larl,126,rue,26,Collapse,155
+8740073999,19201,False,2164,DARKNESS GAMING,CrimsonSky,DG.Ndolal,86,DG.ThunderRiver,70,DG.Dreadlight,49,DG.hoxi,36,DG.dollymy,84,CS.Vexus,9,CS.Lemy,18,CS.Nupiq,29,CS.Qipik,35,CS.Fijik,5
+8740068776,19467,False,2197,Old Resort,Ositos Tilteados,Numeral593,54,elden,15,Ztu,64,Sibosor,38,Crusty!,131,Mapache,51,Sarge,96,fOx2,110,Jaden,135,KenaHi,10
+8740064442,19467,True,1103,GIOR DOTA,Golden Wolves,SHEOL,106,bot.-,70,Kari,108,Asao,64,Hanzama,68,Vassy,50,Leches,48,St4l1n,2,Zm-x ♣,17,LICEN- D I N O  T H U N D E R,100
+8740062264,19467,False,2783,Raidd Boss,LAVA SPORTS,Gk- el retorno,15,Soul,114,Radamez,51,Radita🌸,26,PECHAN,46,Guré Léiman,16,viper,106,Ñengo,48,fantasma,64,Tyr,27
+8740041870,19201,True,1784,CrimsonSky,DARKNESS GAMING,CS.Fijik,84,CS.Nupiq,42,CS.Qipik,35,CS.Vexus,101,CS.Lemy,70,DG.ThunderRiver,46,DG.hoxi,22,DG.Dreadlight,38,DG.dollymy,30,DG.Ndolal,131
+8740039655,19422,False,2219,Virtus.pro,Nigma Galaxy,Abed,106,Timado,48,Saberlight,129,Hellscream,131,Fly,37,rincyq,11,Davai,78,No!ob™,13,OmaR,27,GH,50
+8740039531,19422,False,2112,Xtreme Gaming,Team Falcons,Ame,38,NothingToSay,39,Xxs,137,fy,27,xNova,37,Sneyking,131,skiter,72,Malr1ne,65,AMMAR_THE_F,15,Cr1t-,19
+8740037628,19422,False,2089,Team Spirit,Aurora Gaming,Yatoro,138,panto,100,Larl,74,rue,27,Collapse,28,Nightfall,21,Mikoto,126,Ws`,108,Mira,123,kaori,64
+8740037610,19422,True,2688,paiN Gaming,OG,Wits,145,DarkMago♥,17,Fr△nk,99,Scofield,131,Elmisho,27,skem,50,TIMS,21,Yopaj-,129,Nikko,98,Natsumi,46
+8740029167,19464,True,1969,stariy_bog Team,Go`blins,"Darklord,,`",48,aik,64,Legend,7,not_me,131,tensa zangetsu,98,Ростик,107,OneJey ,101,egxrdemxn,28,Xakoda,79,iltw,11
+8739999325,19201,True,1842,DARKNESS GAMING,CrimsonSky,DG.ThunderRiver,70,DG.dollymy,64,DG.Dreadlight,96,DG.Ndolal,86,DG.hoxi,19,CS.Fijik,84,CS.Qipik,22,CS.Nupiq,81,CS.Vexus,105,CS.Lemy,18
+8739997841,18866,True,2075,Zero Tenacity,LiXO eSports,MoOz,64,Worick,126,dream`,48,dEsire,79,nefrit,99,прав тот кто добр,50,garbat1y,37,vls,41,да это мой мейн,136,謙遜的,74
+8739992397,19467,True,2426,The Bros,EARTH GAMING,Cabo 15 Y.O,21,destroy,59,losing patience,19,ALL EYEZ ON MY,64,zxczxczxc,99,ShadOw.o,15,Big Boy,25,Fantassy,96,Kiri^^,7,Artemis,37
+8739964866,19176,False,2632,Pivasick1d+4,Dexterity,Pivasick1d,16,qwe)),17,MUGIWARA,1,rinkakyu,27,bog4ik,131,Ishura,21,фур,106,TGR,121,Hedoq,129,Ju3i (dexterity top reg),100
+8739961836,18867,True,2090,Eye Gaming,Shinigami Gaming,чиназес,56,ss,145,Опять работать,23,-,83,Bankai,19,chad,65,Leocouk,110,Impact,99,Герман,64,hint,38
+8739958658,19422,True,1795,Team Spirit,paiN Gaming,Yatoro,70,panto,123,Larl,38,rue,27,Collapse,65,Wits,48,Fr△nk,29,DarkMago♥,47,Scofield,100,Elmisho,64
+8739957415,19422,True,1567,Aurora Gaming,Team Falcons,Nightfall,136,Mikoto,17,Ws`,69,Mira,100,kaori,110,Sneyking,37,skiter,95,Malr1ne,106,AMMAR_THE_F,155,Cr1t-,107
+8739952710,19422,False,2225,Nigma Galaxy,OG,rincyq,10,Davai,78,No!ob™,13,OmaR,100,GH,64,skem,27,Yopaj-,19,TIMS,21,Nikko,108,Natsumi,145
+8739952615,19422,True,2657,Virtus.pro,Xtreme Gaming,Abed,74,Timado,46,Saberlight,55,Hellscream,19,Fly,110,Ame,11,NothingToSay,39,Xxs,99,fy,27,xNova,64
+8739942372,19467,True,1247,EARTH GAMING,The Bros,ShadOw.o,10,Big Boy,59,Fantassy,38,Kiri^^,19,Artemis,110,Cabo 15 Y.O,70,destroy,52,losing patience,62,zxczxczxc,15,ALL EYEZ ON MY,87
+8739942292,19464,True,3292,Go`blins,stariy_bog Team,Ростик,107,iltw,46,egxrdemxn,137,OneJey ,101,Xakoda,79,"Darklord,,`",89,aik,64,tensa zangetsu,23,not_me,26,Legend,13
+8739932237,19467,True,5115,Old Resort,Ositos Tilteados,Ztu,98,I will never fall,68,Numeral593,48,elden,28,Crusty!,19,Sarge,99,Jaden,70,Mapache,85,fOx2,100,KenaHi,86
+8739928575,18866,False,1870,LiXO eSports,Zero Tenacity,vls,46,прав тот кто добр,96,謙遜的,52,да это мой мейн,27,garbat1y,37,MoOz,64,Worick,106,dream`,138,dEsire,79,nefrit,99
+8739895187,18867,False,2077,Shinigami Gaming,Eye Gaming,Герман,84,hint,11,Leocouk,63,chad,59,Impact,99,-,37,Опять работать,46,ss,145,чиназес,21,Bankai,19
+8739880207,19176,True,1991,Pivasick1d+4,Unknown,Pivasick1d,96,rinkakyu,79,MUGIWARA,94,bog4ik,103,qwe)),98,VIPBOSS,70,баласт (prime),7,кРыm\ちゃん/ (* ^ ω ^),101,грамота медаль,28,ВУЗЕР,110
+8739878090,19176,True,1600,Dexterity,MATADORA eSports,Ishura,36,Hedoq,137,фур,25,TGR,19,Ju3i (dexterity top reg),79,Aivild,119,этот парень - просто КОЗЁЛ🔥🔥🔥,39,Лерочка,145,GHETTO CHRISTMAS,66,почти умный,99
+8739868152,19464,True,2201,stariy_bog Team,Go`blins,"Darklord,,`",72,aik,100,tensa zangetsu,98,not_me,65,Legend,7,ЛЕХА ФИКСАЦИЯ,110,Xakoda,131,egxrdemxn,108,OneJey ,21,iltw,138
+8739863882,19422,False,2776,OG,Nigma Galaxy,skem,64,TIMS,100,Yopaj-,74,Nikko,137,Natsumi,136,rincyq,70,Davai,155,No!ob™,13,OmaR,27,GH,37
+8739851105,19422,True,2979,Aurora Gaming,Team Falcons,Ws`,78,Nightfall,21,Mikoto,13,Mira,123,kaori,110,Sneyking,83,skiter,145,Malr1ne,65,AMMAR_THE_F,99,Cr1t-,27
+8739851099,19422,False,3440,paiN Gaming,Team Spirit,Wits,11,Elmisho,131,DarkMago♥,39,Fr△nk,29,Scofield,19,Yatoro,21,panto,64,Larl,47,rue,123,Collapse,129
+8739850995,19422,True,3121,Xtreme Gaming,Virtus.pro,Ame,89,NothingToSay,13,Xxs,78,fy,19,xNova,64,Abed,126,Timado,93,Saberlight,129,Hellscream,119,Fly,37
+8739808106,18867,False,2158,Elite Eclipse,Eye Gaming,vogelakbar,47,Impact,19,ss,38,Опять работать,48,Leocouk,131,驚き,120,Герман,100,Ernest,65,Bankai,64,чиназес,21
+8739802865,18866,True,2023,Rune Eaters,Nemiga Gaming,yowaai,11,Ethereal,23,Ankou ♡,33,ani-san,79,Kidaro,64,selfhate,54,young G,106,Covisnine,137,ariel,123,VaniLLl,87
+8739787255,19176,True,1867,Pivasick1d+4,урсус,Pivasick1d,137,MUGIWARA,12,qwe)),90,bog4ik,45,rinkakyu,26,я такой типо чут чуть g.a.d,27,MaFi0Zn1K,2,Mr_Bobrik,43,Honeyboy,70,♂,20
+8739785340,19176,False,1957,Predatory Beavers,Dexterity,2k main,25,Пьяная белка,87,Качкаду,135,West,20,Peerless,1,Hedoq,155,фур,136,TGR,121,Ishura,41,Ju3i (dexterity top reg),37
+8739784859,19176,False,2925,GLHF,Unknown,устал,70,Nobody,26,heb,75,女神,29,спасибо хорошо,106,VIPBOSS,93,баласт (prime),13,кРыm\ちゃん/ (* ^ ω ^),101,ВУЗЕР,27,грамота медаль,96
+8739777219,19464,False,2556,Go`blins,stariy_bog Team,ЛЕХА ФИКСАЦИЯ,7,OneJey ,97,egxrdemxn,28,Xakoda,3,iltw,11,"Darklord,,`",70,aik,131,tensa zangetsu,65,Legend,39,not_me,100
+8739736654,19422,True,2214,GamerLegion,Yakutou Brothers,Shad,21,Speeed,37,RCY,34,Fayde,96,Bignum,100,Ghost,46,天命,64,Yang,69,BoBoKa,26,MooN,47
+8739725793,19422,True,2636,Team Yandex,TEAM VISION,医者watson`,46,CHIRA_JUNIOR,74,Noticed,65,Saksa,26,Maladych,37,Satanic,11,SSS,55,No[o]ne-,28,9Class,71,Dukalis,64
+8739720304,18866,False,1720,Nemiga Gaming,Rune Eaters,selfhate,46,young G,126,Covisnine,2,ariel,64,VaniLLl,110,yowaai,11,Ethereal,106,Ankou ♡,135,ani-san,79,Kidaro,87
+8739710260,19422,False,1735,REKONIX,MOUZ,inYourdreaM,38,Fbz,96,jikroy,21,dalul,19,Varizh,110,MidOne,13,BOOM,65,Crystallis,136,yamich,41,Seleri,58
+8739698608,18867,True,2466,Eye Gaming,Elite Eclipse,Герман,83,чиназес,8,驚き,17,Ernest,65,Bankai,79,Impact,136,ss,155,vogelakbar,129,Опять работать,70,Leocouk,110
+8739662427,19422,False,2393,BoomBoys,Tundra Esports,Kiritych~,113,gpk~,126,MieRo,129,Save-,131,Kataomi`,64,33,69,Ari,27,Whitemon,50,bzm,74,Pure,54
+8739653602,18866,True,1456,Ilbirs Esports,Level UP,rubikon155,61,принятие,19,miyaoo,129,my own summer,21,Q,37,Manem,11,Malin,13,Norma,96,этот парень - КОЗЁЛ,100,malodrali,50
+8739631582,19176,True,1948,Unknown,Unknown,VIPBOSS,70,баласт (prime),74,ВУЗЕР,27,кРыm\ちゃん/ (* ^ ω ^),101,грамота медаль,28,Дурак,95,whatever☯,64,импотенция,19,ЛЕГЕНДА,47,сияйте,75
+8739623562,19176,True,1639,Pivasick1d+4,Unknown,Pivasick1d,155,qwe)),19,MUGIWARA,102,rinkakyu,26,bog4ik,87,russian goida,54,Dissimilate,121,я больше не руиню,65,.,34,EeSwagGuy,111
+8739620266,19176,True,1624,GLHF,Team Sherlock,устал,95,女神,15,Nobody,26,heb,66,спасибо хорошо,74,Seleri [Inactive],37,(⊙‿◎),99,амбрелла карпарш,21,люблю полину,47,грациозный,79
+8739619302,19176,False,5079,BloodSpirit,MATADORA eSports,JACKPOT,17,misolo mentaliti(чекане),94,мысли ясны,131,чепуха,64,Одиночка,2,Aivild,100,этот парень - просто КОЗЁЛ🔥🔥🔥,22,Лерочка,99,GHETTO CHRISTMAS,66,почти умный,137
+8739616771,19176,True,2743,Dexterity,banda/1488,Ishura,19,Hedoq,33,фур,11,TGR,107,Ju3i (dexterity top reg),111,fearfearfear,108,кажется я компьютер,109,RaCc3JRNные zRachku,90,Shazakonchitsya,101,suffering enjoyer,123
+8739615625,19176,False,2388,Greyhound Team,Predatory Beavers,iMM0,126,Хасбуля,79,CKAM,96,Arty,112,_ABH_AS,46,2k main,11,Пьяная белка,64,West,20,Peerless,12,Нелюдь,29
+8739611060,19422,True,2576,Yakutou Brothers,GamerLegion,Ghost,138,MooN,13,Yang,29,BoBoKa,26,天命,64,Shad,57,Speeed,66,RCY,145,Fayde,65,Bignum,27
+8739610783,19422,True,2876,TEAM VISION,Team Yandex,Satanic,11,SSS,29,No[o]ne-,74,9Class,27,Dukalis,110,医者watson`,48,CHIRA_JUNIOR,19,Noticed,55,Maladych,64,Saksa,90
+8739610662,19422,True,2053,MOUZ,REKONIX,MidOne,11,BOOM,65,Crystallis,49,yamich,41,Seleri,58,inYourdreaM,137,Fbz,69,jikroy,38,dalul,79,Varizh,87
+8739565718,19464,False,1891,Team Shpilit,stariy_bog Team,Solo,64,darkniA,52,Humble,70,Kyzko,19,dios mio hasta que me enamore,98,aik,100,"Darklord,,`",72,tensa zangetsu,136,not_me,131,Legend,7
+8739563995,19422,True,1801,Tundra Esports,BoomBoys,33,65,Ari,100,Whitemon,64,bzm,126,Pure,48,gpk~,17,Kiritych~,63,MieRo,28,Save-,131,Kataomi`,111
+8739551044,18866,False,2736,Ilbirs Esports,Level UP,rubikon155,21,my own summer,19,miyaoo,55,принятие,126,Q,64,Manem,11,Malin,13,Norma,96,этот парень - КОЗЁЛ,136,malodrali,85
+8739494661,19176,True,2277,Unknown,MaMa9aka,Дурак,46,сияйте,37,импотенция,65,whatever☯,71,ЛЕГЕНДА,98,Ove4d()se,2,CEO♠,102,атражение,19,БОРИС ЖИВОТНОЕ,32,ночные гонки,31
+8739489606,19176,True,1620,Greyhound Team,Unknown,iMM0,16,Arty,112,CKAM,108,_ABH_AS,70,Хасбуля,107,farm aura,44,Asteriks,74,teenage soldier,27,Талант,98,thepolepositionclub,119
+8739487125,19176,True,3197,Team Sherlock,RememberFooori,Seleri [Inactive],103,(⊙‿◎),38,амбрелла карпарш,11,грациозный,19,люблю полину,7,RemoRi.-SuroOs51-Aneex,137,LSDUSER,18,Coyote Starrk,50,DieMoon,30,Torres,81
+8739485284,19176,True,1439,Pivasick1d+4,Unknown,Pivasick1d,155,qwe)),25,MUGIWARA,46,bog4ik,37,rinkakyu,119,конченый псих,35,агент габена 61812,137,spaNNIII,51,1212121212,105,AnalK1ller≡T Rapture Rush≡,48
+8739482920,19176,False,3394,Rage Quit Team,BloodSpirit,hotaka`,96,misiu,128,esa,97,sSem1ch,64,desouls,49,JACKPOT,17,мысли ясны,91,чепуха,31,misolo mentaliti(чекане),70,Одиночка,136
+8739480827,19176,False,2415,winzero,GLHF,Tony Soprano,31,ярик подпиварик,96,Hex,70,...⁴²,91,M3ow,39,Nobody,71,устал,49,女神,155,heb,112,спасибо хорошо,76
+8739479946,19176,True,3117,banda/1488,Unknown,кажется я компьютер,94,fearfearfear,98,Shazakonchitsya,100,RaCc3JRNные zRachku,11,suffering enjoyer,19,Налетчик Игорь,129,no mercy,50,infinite aura,101,pretty junk,47,field trip,38
+8739479703,19176,True,2059,MATADORA eSports,Gribbs,этот парень - просто КОЗЁЛ🔥🔥🔥,126,Aivild,100,Лерочка,99,GHETTO CHRISTMAS,155,почти умный,96,Глеб Корбов,59,ДимаZombak,101,девиантное поведение,61,cool baka,14,За ВДВ,26
+8739479572,19176,True,1375,Dexterity,ZekiDNR,Hedoq,65,фур,13,TGR,100,Ishura,19,Ju3i (dexterity top reg),79,милка,87,буккаке,49,киpилл дeбил xax,26,fxxcsp,129,swap commends,74
+8739477937,19176,False,1305,Unknown,Unknown,candylide333,38,kakaska,137,:( 5150,138,epilepticult,83,empathy,128,2k main,34,Пьяная белка,64,West,20,Peerless,63,Нелюдь,80
+8739477865,19176,True,2790,урсус,Jetpack Team,я такой типо чут чуть g.a.d,136,MaFi0Zn1K,108,Mr_Bobrik,52,♂,64,Honeyboy,63,luminarc,129,Aruda_Takanishi,31,КапельПодснежник,100,гарик,93,Kondrov,34
+8739472184,19422,True,2784,MOUZ,GamerLegion,MidOne,88,BOOM,65,Crystallis,49,yamich,41,Seleri,45,Shad,38,Speeed,79,RCY,13,Fayde,69,Bignum,19
+8739457443,18867,False,1643,Cinqueblinks,Teiko,domenikosina,16,Герман,100,farm pattern jabki,61,Konina,106,eclipse,63,vogelakbar,155,Impact,27,驚き,49,hint,119,airu,17
+8739448492,19422,False,1742,TEAM VISION,Tundra Esports,Satanic,38,SSS,96,No[o]ne-,59,9Class,27,Dukalis,50,33,65,Ari,100,Whitemon,37,bzm,16,Pure,138
+8739419093,19464,True,3061,stariy_bog Team,Team Shpilit,tensa zangetsu,136,aik,27,not_me,138,Legend,39,"Darklord,,`",48,Solo,79,darkniA,15,dios mio hasta que me enamore,2,Kyzko,123,Humble,70
+8739418859,18866,False,3054,Level UP,Ilbirs Esports,Manem,21,Malin,35,Norma,108,этот парень - КОЗЁЛ,107,malodrali,64,rubikon155,38,my own summer,123,принятие,106,miyaoo,29,Q,66
+8739405645,19422,True,3114,REKONIX,BoomBoys,inYourdreaM,17,Fbz,96,jikroy,46,dalul,27,Varizh,37,Kiritych~,21,gpk~,74,MieRo,29,Save-,19,Kataomi`,3
+8739395303,19422,False,1446,Yakutou Brothers,Team Yandex,Ghost,11,MooN,13,Yang,110,BoBoKa,136,天命,51,医者watson`,21,CHIRA_JUNIOR,126,Noticed,96,Maladych,37,Saksa,100
+8739369490,18867,True,2322,Teiko,Cinqueblinks,vogelakbar,33,Impact,19,驚き,10,hint,64,airu,35,domenikosina,21,Konina,39,farm pattern jabki,72,eclipse,86,Герман,83
+8739360792,19176,True,1006,Unknown,Unknown,кРыm\ちゃん/ (* ^ ω ^),101,баласт (prime),13,VIPBOSS,70,грамота медаль,129,ВУЗЕР,14,хватит довольно,74,depre778,63,ЛЁВА,8,KVFFF,26,сосун(ZXC),81
+8739350122,19176,False,1736,team scorpions,Majesik bratan team,Kk,37,w,30,Zafe,2,o,16,92,63,;J,50,alina my dream,100,O_o,76,Пахну сексом,28,nomak,15
+8739348819,19176,True,2160,Unknown,322 Team,Shazakonchitsya,100,fearfearfear,129,кажется я компьютер,94,RaCc3JRNные zRachku,90,suffering enjoyer,123,semen_ebakin,13,ятакчувствую,11,сломал майндсет,136,#lirika,38,hollow coast,79
+8739348815,19176,False,1460,Unknown,Dexterity,PZ | O|斯托亚科夫斯基|O,97,wez.,11,fuku少,70,shewacxz,71,Арсен Маркарян,128,фур,106,TGR,107,Hedoq,155,Ishura,48,Ju3i (dexterity top reg),79
+8739347051,19176,False,2513,Unknown,Unknown,shackled of beauty,70,disuky,97,Larsy75,59,собака бурмалдак,31,Marc Aureli,3,Сиежка,112,russian goida,12,Dissimilate,128,krager¿¿¿,39,я больше не руиню,155
+8739346977,19176,True,1976,RememberFooori,WEHOME,RemoRi.-SuroOs51-Aneex,126,DieMoon,121,Coyote Starrk,119,LSDUSER,12,Torres,15,flowers of the may,131,Conjurer's Catalyst,138,cutiecutie,129,Lakeman,7,9gRam,30
+8739345591,19176,False,2473,Unknown,Jetpack Team,ну да я хуевый и ч,129,Agony,68,死んだ,27,Дэнчик,41,pmM,25,Kondrov,28,гарик,42,luminarc,155,КапельПодснежник,84,Aruda_Takanishi,79
+8739343662,18959,True,1957,Flawless Goblins,Dark Rebellion,ZodiAc!,86,Okoni,20,tinkywinky,10,Randing,37,Kreen,29,wannacoffee,11,Denz,87,Aboba,23,Vahee,49,SectumSempra,31
+8739341590,19422,False,3758,GamerLegion,MOUZ,Shad,46,Speeed,50,RCY,38,Fayde,155,Bignum,51,MidOne,13,BOOM,29,Crystallis,136,yamich,27,Seleri,58
+8739340568,19176,False,1563,hellborn,GLHF,true Adam,129,Onsi 0_0 ZzZz,37,tokyo 4am,25,xio8,50,ascend to sinister sooq 333,12,女神,155,устал,70,Nobody,26,heb,68,спасибо хорошо,39
+8739337514,19176,False,1277,Unknown,чупапупсы,Електрик,90,SenSoy | lqtikmango,53,-1 gpm,98,22.09.2009,93,Ёричи,30,я такой типо чут чуть g.a.d,27,Honeyboy,70,MaFi0Zn1K,137,Mr_Bobrik,80,♂,128
+8739337447,19176,True,1457,Faceless Team,Unknown,Дурак,49,сияйте,79,ЛЕГЕНДА,96,whatever☯,71,импотенция,74,Дитя пророчества,108,sadness,21,Analboy,64,HolCake_,26,Твоя мама,126
+8739337354,19176,True,1436,ZekiDNR,PivoVision,киpилл дeбил xax,100,милка,128,swap commends,74,буккаке,11,fxxcsp,38,Роналдо,25,большие сиськи,85,BENNETI [ ! ],135,Коран кобейн,6,Обл.сельскохозяй,20
+8739336354,19176,True,2316,BloodSpirit,No wards ,misolo mentaliti(чекане),12,чепуха,85,JACKPOT,39,Одиночка,2,мысли ясны,25,umbra primae,62,aura x why?,83,number 1,129,holy x why?,70,absolute¿¿,11
+8739335731,19176,True,2423,Team Sherlock,NotChainedAnymore,Seleri [Inactive],83,грациозный,79,люблю полину,47,амбрелла карпарш,56,(⊙‿◎),99,Ameame,10,42526969,15,whyfabrick,37,pidorusWWkefteme,50,def Hi: won this game,39
+8739335497,19176,False,2645,MOGILA RECORDS TEAM,Lowreys Brothers,XBluntly,14,Decaying mother,39,Ute Rayte,68,Жека Чирий,6,i488,86,Налетчик Игорь,155,pretty junk,13,no mercy,64,field trip,70,infinite aura,63
