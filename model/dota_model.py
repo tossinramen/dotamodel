@@ -262,7 +262,7 @@ def main():
         else:
             Xt.append(row); yt.append(g["radiant_win"])
 
-        # update expanding state AFTER featurizing
+        
         if team_ok(rt):
             tw[rt] += g["radiant_win"]; tn[rt] += 1
         if team_ok(dt):
