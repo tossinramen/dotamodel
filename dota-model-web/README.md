@@ -1,3 +1,25 @@
+moved everything to lolmodel site
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Dota 2 Draft Model
 
 Mirrors the LoL model: same 8-feature layout (6 draft-only + 2 team), same
